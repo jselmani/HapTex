@@ -18,4 +18,4 @@ This project used the following concepts of Object-Oriented Software Development
 6. Reading & Writing to/from a file
 
 ### Output
-In order to see sample output of the program, please click on this [link](https://www.github.com/jselmani/ARAIG/JielSelmanovskiOutput.txt) or take a look at images in the [images folder](https://www.github.com/jselmani/ARAIG/images).
+In order to see sample output of the program, please click on this [link](https://github.com/jselmani/ARAIG/blob/master/JielSelmanovskiOutput.txt) or take a look at images in the [images folder](https://github.com/jselmani/ARAIG/tree/master/images).
