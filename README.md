@@ -15,7 +15,7 @@ This project used the following concepts of Object-Oriented Software Development
 3. Pointers & Double Pointers
 4. Composition & Aggregation
 5. Copy & Move Semantics
-6. Reading & Writing to/from a file
+6. File I/O
 
 ### Output
 In order to see sample output of the program, please click on this [link](https://github.com/jselmani/ARAIG/blob/master/JielSelmanovskiOutput.txt) or take a look at images in the [images folder](https://github.com/jselmani/ARAIG/tree/master/images).
