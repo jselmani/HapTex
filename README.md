@@ -1,4 +1,4 @@
-## ARAIG Exoskeleton Configuration Software
+## HapTex
 
 ### Description
 The ARAIG Exoskeleton Virtual Reality Suit is designed to provide a very realistic approach to first person video games and simulations alike.  It takes data as input from the videogame/simulation and provides output as stimulation through the suit based on how the User has interacted with the environment.
